@@ -35,7 +35,7 @@ const Navigation: React.FC = () => {
           {/* Logo */}
           <div className="flex items-center">
             <Link href="/" className="text-xl font-bold text-gray-900 dark:text-white hover:text-[#FF00FF] transition-colors">
-              Portfolio
+              Software Quality Management Consulting
             </Link>
           </div>
 

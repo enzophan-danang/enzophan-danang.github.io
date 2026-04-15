@@ -1,0 +1,152 @@
+[
+  {
+    "idArticle": "strategic_qa_testing_for_spam_trap_avoidance_witho",
+    "title": "Strategic QA Testing for Spam Trap Avoidance Without Documentation",
+    "image": "",
+    "url": "https://dev.tohttps://dev.to/mohammad_waseem_c31f3a26f/strategic-qa-testing-for-spam-trap-avoidance-without-documentation-45e5"
+  },
+  {
+    "idArticle": "from_dataset_to_deployment_an_end_to_end_qa_check",
+    "title": "From dataset to deployment: An end-to-end QA checklist for data scientists",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fzxa2ba8877ub7zzffio8.jpg",
+    "url": "https://dev.tohttps://dev.to/qa-leaders/from-dataset-to-deployment-an-end-to-end-qa-checklist-for-data-scientists-a17"
+  },
+  {
+    "idArticle": "everybody_tests",
+    "title": "Everybody Tests",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fkpou0epbbdlljbc6reei.png",
+    "url": "https://dev.tohttps://dev.to/focused_dot_io/everybody-tests-126k"
+  },
+  {
+    "idArticle": "i_accidentally_ddosd_myself_and_why_you_should_t",
+    "title": "I accidentally DDoS'd myself (and why you should too)",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiqahvn7mp0cqftadw2kp.png",
+    "url": "https://dev.tohttps://dev.to/nefintec/i-accidentally-ddosd-myself-and-why-you-should-too-38pf"
+  },
+  {
+    "idArticle": "playwright__chaos_engineering_3_ways_to_break_yo",
+    "title": "Playwright & Chaos Engineering: 3 Ways to Break Your UI in 10 Lines of Code 🧨",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fdnfra8t6ogss932oafub.png",
+    "url": "https://dev.tohttps://dev.to/aragossa/playwright-chaos-engineering-3-ways-to-break-your-ui-in-10-lines-of-code-2bkj"
+  },
+  {
+    "idArticle": "testing_redis_circuit_breaker_with_toxiproxy",
+    "title": "Testing Redis Circuit Breaker with Toxiproxy",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fawwaf2z5fn10kkw9pim7.png",
+    "url": "https://dev.tohttps://dev.to/akarshan/testing-redis-circuit-breaker-with-toxiproxy-4p8a"
+  },
+  {
+    "idArticle": "beyond_uptime_monitoring_a_set_it_and_forget_it_m",
+    "title": "Beyond Uptime Monitoring: A Set-It-And-Forget-It Monitoring Stack for 50+ Client Forms",
+    "image": "",
+    "url": "https://dev.tohttps://dev.to/nickunjchopra/beyond-uptime-monitoring-a-set-it-and-forget-it-monitoring-stack-for-50-client-forms-34go"
+  },
+  {
+    "idArticle": "testing_pci_iframes_easily",
+    "title": "Testing PCI Iframes Easily",
+    "image": "",
+    "url": "https://dev.tohttps://dev.to/kotesh_mudila/testing-pci-iframes-easily-gp7"
+  },
+  {
+    "idArticle": "what_we_learned_securing_a_saas_product_with_autom",
+    "title": "What We Learned Securing a SaaS Product with Automated DAST",
+    "image": "",
+    "url": "https://dev.tohttps://dev.to/james_miller/what-we-learned-securing-a-saas-product-with-automated-dast-56kb"
+  },
+  {
+    "idArticle": "testing_a_24g__77g_mmwave_radar_for_reliable_dist",
+    "title": "Testing a 24G / 77G mmWave Radar for Reliable Distance Sensing on UAV & Robotics",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ff9cba11hcb0rftdy7olk.jpg",
+    "url": "https://dev.tohttps://dev.to/hexsoon2026/testing-a-24g-77g-mmwave-radar-for-reliable-distance-sensing-on-uav-robotics-4ldb"
+  },
+  {
+    "idArticle": "custom_junit_5_extensions_for_testing",
+    "title": "Custom JUnit 5 Extensions for Testing",
+    "image": "",
+    "url": "https://dev.tohttps://dev.to/eliasnogueira/custom-junit-5-extensions-for-testing-hnh"
+  },
+  {
+    "idArticle": "a_real_conversation_with_my_slm",
+    "title": "A 'Real' Conversation with My SLM",
+    "image": "",
+    "url": "https://dev.tohttps://dev.to/ben-santora/a-real-conversation-with-my-slm-1bc3"
+  },
+  {
+    "idArticle": "overcoming_geo_blocking_for_enterprise_testing_wit",
+    "title": "Overcoming Geo-Blocking for Enterprise Testing with JavaScript Strategies",
+    "image": "",
+    "url": "https://dev.tohttps://dev.to/mohammad_waseem_c31f3a26f/overcoming-geo-blocking-for-enterprise-testing-with-javascript-strategies-3345"
+  },
+  {
+    "idArticle": "guide_update_nvm_firmware_on_intel_i226_and_intel",
+    "title": "Guide: Update NVM firmware on Intel i226 and Intel i225 Ethernet controllers",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F9e71f5bzl2era2fv6szk.png",
+    "url": "https://dev.tohttps://dev.to/hunghvu/guide-update-nvm-firmware-on-intel-i226-and-intel-i225-ethernet-controllers-o2m"
+  },
+  {
+    "idArticle": "____day_02___building_a_complete_selenium_java_fra",
+    "title": "🛠️ Day 02 - Building a Complete Selenium Java Framework – Project Initiation and Structure",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Ftq3jpmqbpomq0zyi96rl.png",
+    "url": "https://dev.tohttps://dev.to/utkarsh630/day-02-building-a-complete-selenium-java-framework-project-initiation-and-structure-4dmj"
+  },
+  {
+    "idArticle": "code_coverage_is_not_a_one_size_fits_all_rule",
+    "title": "Code coverage is not a one-size-fits-all rule.",
+    "image": "",
+    "url": "https://dev.tohttps://dev.to/uneekvu/code-coverage-is-not-a-one-size-fits-all-rule-4knf"
+  },
+  {
+    "idArticle": "streamlining_geo_blocked_feature_testing_with_dock",
+    "title": "Streamlining Geo-Blocked Feature Testing with Docker During Peak Traffic",
+    "image": "",
+    "url": "https://dev.tohttps://dev.to/mohammad_waseem_c31f3a26f/streamlining-geo-blocked-feature-testing-with-docker-during-peak-traffic-7kl"
+  },
+  {
+    "idArticle": "automation_testing_is_a_must_in_ai_world",
+    "title": "Automation testing is a must in AI world.",
+    "image": "",
+    "url": "https://dev.tohttps://dev.to/maulik_jani_826053f27b194/automation-testing-is-a-must-in-ai-world-18po"
+  },
+  {
+    "idArticle": "youtube_proxy_validation_lab_you_can_run_in_one_af",
+    "title": "YouTube Proxy Validation Lab You Can Run in One Afternoon",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2F1ezt493wtrvdlqhuniri.png",
+    "url": "https://dev.tohttps://dev.to/gabrielewayner/youtube-proxy-validation-lab-you-can-run-in-one-afternoon-bah"
+  },
+  {
+    "idArticle": "___day_01_building_a_selenium_java_framework___th",
+    "title": "🚗 Day 01: Building a Selenium Java Framework — The Blueprint",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fyjm32m1rxr6hoix7zfa8.png",
+    "url": "https://dev.tohttps://dev.to/utkarsh630/day-01-building-a-selenium-java-framework-the-blueprint-5fj9"
+  },
+  {
+    "idArticle": "5_things_every_beginner_should_know_before_startin",
+    "title": "5 Things Every Beginner Should Know Before Starting Manual Testing",
+    "image": "",
+    "url": "https://dev.tohttps://dev.to/ijsathi/5-things-every-beginner-should-know-before-starting-manual-testing-108p"
+  },
+  {
+    "idArticle": "solving_geo_blocked_feature_testing_with_sql_on_a_",
+    "title": "Solving Geo-Blocked Feature Testing with SQL on a Zero Budget",
+    "image": "",
+    "url": "https://dev.tohttps://dev.to/mohammad_waseem_c31f3a26f/solving-geo-blocked-feature-testing-with-sql-on-a-zero-budget-4pno"
+  },
+  {
+    "idArticle": "we_tested_5_ai_commit_message_skills_on_security_",
+    "title": "We tested 5 AI commit-message skills on security. 3 made things worse.",
+    "image": "",
+    "url": "https://dev.tohttps://dev.to/shadab_nazar/we-tested-5-ai-commit-message-skills-on-security-3-made-things-worse-mdm"
+  },
+  {
+    "idArticle": "testing_your_cloud_infrastructure_like_ikea_furnit",
+    "title": "Testing Your Cloud Infrastructure Like IKEA Furniture: 6 Layers of Crossplane v2 Testing (PostgreSQL Example)",
+    "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fraw.githubusercontent.com%2FvanHeemstraPublications%2Fdev-to%2Fmain%2Fimages%2Ftest-your-infrastructure-like-your-furniture.png%3Fv%3D1769862028",
+    "url": "https://dev.tohttps://dev.to/the-software-s-journey/testing-your-cloud-infrastructure-like-ikea-furniture-6-layers-of-crossplane-v2-testing-5dgk"
+  },
+  {
+    "idArticle": "securing_test_environments_how_a_lead_qa_engineer",
+    "title": "Securing Test Environments: How a Lead QA Engineer Mitigates PII Leaks with TypeScript and Open Source Tools",
+    "image": "",
+    "url": "https://dev.tohttps://dev.to/mohammad_waseem_c31f3a26f/securing-test-environments-how-a-lead-qa-engineer-mitigates-pii-leaks-with-typescript-and-open-3a6b"
+  }
+]
